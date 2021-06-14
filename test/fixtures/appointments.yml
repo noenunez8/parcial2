@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appointmment_date: 2021-06-14 17:15:18
+  worker: one
+  medical_center_type: one
+
+two:
+  appointmment_date: 2021-06-14 17:15:18
+  worker: two
+  medical_center_type: two
